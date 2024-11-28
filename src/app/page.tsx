@@ -1,4 +1,5 @@
 
+import Navbar from './components/navbar'
 
 export default function Home() {
   
@@ -6,7 +7,7 @@ export default function Home() {
     
     <>
       <div>
-        <h1 className="h-full  m-">husban</h1>
+       <Navbar />
     </div>
     
     </>
