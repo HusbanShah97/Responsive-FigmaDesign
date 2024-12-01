@@ -43,7 +43,7 @@ export default function Navbar() {
                         <li>Brands</li>
                         </ul>
                         
-                        <input type="text" placeholder='Serach For Product' className='w-[577px] h-[30px] rounded-xl ml-16 bg-[#F0F0F0]' />
+                        <input type="text" placeholder='Serach For Product' className='w-[577px] h-[35px] rounded-xl ml-14 bg-[#F0F0F0]' />
                         <div className='w-[62px] h-[24px] flex ml-10 gap-5'>
                            
                         <Image
@@ -84,7 +84,7 @@ export default function Navbar() {
                         <button type='button'>Shop Now</button>
                     </div>
                     
-                    <div>
+                    <div className='w-[596px] h-[74px]  '>
                         
                     </div>
 
